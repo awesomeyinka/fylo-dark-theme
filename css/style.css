@@ -340,9 +340,6 @@ section {
     grid-gap: 1rem;
     grid-template-columns: 2fr 1fr;
   }
-  .form__input {
-    /* width: 60%; */
-  }
 
   .form__button {
     min-width: fit-content;
