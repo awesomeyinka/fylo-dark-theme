@@ -2,7 +2,7 @@
 
 Landing page website built with HTML & CSS. Part of the [Frontend Mentor](https://www.frontendmentor.io) challenge.
 
-[Live Demo](https://awesome-fylo.netlify.app)
+[Live Demo](https://fylolanding.netlify.app)
 
 ![Screenshot](fylo-dark-theme-screenshot.png)
 
