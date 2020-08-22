@@ -416,3 +416,11 @@ footer {
     grid-gap: 2rem;
   }
 }
+
+.attribution-link {
+  text-decoration: underline;
+}
+
+.attribution-link:hover {
+  color: purple;
+}
